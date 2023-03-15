@@ -3,7 +3,7 @@ Hi, I'm [Arjuna Panji Prakarsa](https://arjunapanji21.github.io), a Web Develope
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning PostgreSQL and Python; 
+- 🌱 I’m currently learning Flutter and Machine Learning with Python; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@arjunapanji21](https://www.instagram.com/arjunapanji21)
 
