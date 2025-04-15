@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Arjuna Panji Prakarsa</h1>
+<h3 align="center">A passionate Web Developer from Indonesia</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjunapanji21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 Hi, I'm [Arjuna Panji Prakarsa](https://arjunapanji21.github.io), a Web Developer (Laravel and Wordpress) 🚀 from Indonesia. Freelancer 👨🏽‍💻 [@ngejasa.in](https://ngejasain.vercel.app). Beside's programming, I enjoy gaming and music.
   
 **Talking about Personal Stuffs:**
@@ -7,20 +13,20 @@ Hi, I'm [Arjuna Panji Prakarsa](https://arjunapanji21.github.io), a Web Develope
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@arjunapanji21](https://www.instagram.com/arjunapanji21)
 
-**Languages and Tools:**  
+**Skills & Technologies:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:work.arjunapanji@gmail.com">
@@ -45,16 +51,24 @@ Hi, I'm [Arjuna Panji Prakarsa](https://arjunapanji21.github.io), a Web Develope
 <br />
 
 -----
+
 <details>
-  <summary> &#x1f4c8; GitHub Stats</summary>
-  <br />
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunapanji21&hide=java,html,tex&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=3" />
-  
-</a>
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunapanji21&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats">
- 
-</a>
-  ----
+  <summary>📊 GitHub Stats</summary>
+  <br/>
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunapanji21&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunapanji21&theme=tokyonight" />
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunapanji21&theme=tokyo-night" />
+  </p>
 </details>
+
+---
+<p align="center">
+  If you like what I do, consider buying me a coffee!<br/>
+  <a href="https://www.buymeacoffee.com/arjunapanji" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
+  </a>
+</p>
