@@ -55,24 +55,26 @@ const arjuna = {
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:work.arjunapanji@gmail.com">
-  <img align="left" alt="Arjuna Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://twitter.com/arjunaaprakarsa">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://web.facebook.com/arjunaaprakarsa">
-  <img align="left" alt="r" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
-</a>
-<a href="https://www.linkedin.com/in/arjunapanji/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/arjunaa21">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/arjunaaprakarsa/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="left">
+  <a href="mailto:work.arjunapanji@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/arjunaaprakarsa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://web.facebook.com/arjunaaprakarsa">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arjunapanji/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/arjunaa21">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.instagram.com/arjunaaprakarsa/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 <br />
 
@@ -93,9 +95,12 @@ const arjuna = {
 
 ---
 <p align="center">
-  If you like what I do, consider buying me a coffee!<br/>
+  If you like what I do, consider supporting me!<br/><br/>
   <a href="https://www.buymeacoffee.com/arjunapanji" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
-  <a href="https://trakteer.id/devusioncode" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=24-01-2025" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+  &nbsp;&nbsp;
+  <a href="https://trakteer.id/devusioncode" target="_blank">
+    <img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png" height="50" style="border:0px;" alt="Trakteer Saya" />
+  </a>
 </p>
