@@ -64,47 +64,27 @@ const arjuna = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:work.arjunapanji@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="social-badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:5px; transition: all 0.3s ease; transform: scale(1);"/>
   </a>
-  <a href="https://twitter.com/devusioncode">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" class="social-badge"/>
+  <a href="https://twitter.com/devusioncode" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin:5px; transition: all 0.3s ease;"/>
   </a>
-  <a href="https://web.facebook.com/arjunapanji21">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" class="social-badge"/>
+  <a href="https://web.facebook.com/arjunapanji21" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin:5px; transition: all 0.3s ease;"/>
   </a>
-  <a href="https://www.linkedin.com/in/arjunapanji/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="social-badge"/>
+  <a href="https://www.linkedin.com/in/arjunapanji/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px; transition: all 0.3s ease;"/>
   </a>
-  <a href="https://t.me/arjunaa21">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="social-badge"/>
+  <a href="https://t.me/arjunaa21" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin:5px; transition: all 0.3s ease;"/>
   </a>
-  <a href="https://www.instagram.com/arjunaaprakarsa/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="social-badge"/>
+  <a href="https://www.instagram.com/arjunaaprakarsa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin:5px; transition: all 0.3s ease;"/>
   </a>
-  <a href="https://www.tiktok.com/@arjunaaprakarsa">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" class="social-badge"/>
+  <a href="https://www.tiktok.com/@arjunaaprakarsa" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="margin:5px; transition: all 0.3s ease;"/>
   </a>
 </p>
-
-<style>
-  .social-badge {
-    transition: all 0.3s ease;
-  }
-  .social-badge:hover {
-    transform: scale(1.1) translateY(-2px);
-    filter: drop-shadow(0 0 10px rgba(255,255,255,0.2));
-  }
-  
-  img[src*="github-readme-stats"],
-  img[src*="github-readme-streak-stats"] {
-    transition: all 0.3s ease;
-  }
-  img[src*="github-readme-stats"]:hover,
-  img[src*="github-readme-streak-stats"]:hover {
-    transform: translateY(-5px);
-    filter: drop-shadow(0 0 20px rgba(122,122,219,0.4));
-  }
-</style>
 
 <div align="center">
   <img src="https://github.com/arjunapanji21/arjunapanji21/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -118,8 +98,8 @@ const arjuna = {
   <summary>📊 GitHub Stats</summary>
   <br/>
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunapanji21&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunapanji21&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunapanji21&show_icons=true&theme=tokyonight" style="margin:5px; transition: all 0.3s ease;"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunapanji21&theme=tokyonight" style="margin:5px; transition: all 0.3s ease;"/>
   </p>
   <br/>
   <p align="center">
