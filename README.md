@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Arjuna Panji Prakarsa</h1>
-<h3 align="center">A passionate Full-stack Developer from Indonesia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7A7ADB&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arjuna;Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+</div>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  A passionate Full-stack Developer from Indonesia
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arjunapanji21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -56,28 +63,52 @@ const arjuna = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:work.arjunapanji@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:work.arjunapanji@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="social-badge"/>
   </a>
   <a href="https://twitter.com/devusioncode">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" class="social-badge"/>
   </a>
   <a href="https://web.facebook.com/arjunapanji21">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" class="social-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/arjunapanji/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="social-badge"/>
   </a>
   <a href="https://t.me/arjunaa21">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="social-badge"/>
   </a>
   <a href="https://www.instagram.com/arjunaaprakarsa/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="social-badge"/>
   </a>
   <a href="https://www.tiktok.com/@arjunaaprakarsa">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" class="social-badge"/>
   </a>
 </p>
+
+<style>
+  .social-badge {
+    transition: all 0.3s ease;
+  }
+  .social-badge:hover {
+    transform: scale(1.1) translateY(-2px);
+    filter: drop-shadow(0 0 10px rgba(255,255,255,0.2));
+  }
+  
+  img[src*="github-readme-stats"],
+  img[src*="github-readme-streak-stats"] {
+    transition: all 0.3s ease;
+  }
+  img[src*="github-readme-stats"]:hover,
+  img[src*="github-readme-streak-stats"]:hover {
+    transform: translateY(-5px);
+    filter: drop-shadow(0 0 20px rgba(122,122,219,0.4));
+  }
+</style>
+
+<div align="center">
+  <img src="https://github.com/arjunapanji21/arjunapanji21/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <br />
 
@@ -97,6 +128,7 @@ const arjuna = {
 </details>
 
 ---
+
 <p align="center">
   If you like what I do, consider supporting me!<br/><br/>
   <a href="https://www.buymeacoffee.com/arjunapanji" target="_blank">
@@ -106,4 +138,8 @@ const arjuna = {
   <a href="https://trakteer.id/devusioncode" target="_blank">
     <img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png" height="50" style="border:0px;" alt="Trakteer Saya" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
