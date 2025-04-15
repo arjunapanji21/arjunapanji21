@@ -1,17 +1,43 @@
 <h1 align="center">Hi 👋, I'm Arjuna Panji Prakarsa</h1>
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
+<h3 align="center">A passionate Full-stack Developer from Indonesia</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arjunapanji21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-Hi, I'm [Arjuna Panji Prakarsa](https://arjunapanji21.github.io), a Web Developer (Laravel and Wordpress) 🚀 from Indonesia. Freelancer 👨🏽‍💻 [@ngejasa.in](https://ngejasain.vercel.app). Beside's programming, I enjoy gaming and music.
-  
-**Talking about Personal Stuffs:**
+<p align="center">
+  <code>const developer = new FullStackDeveloper('Arjuna Panji Prakarsa');</code>
+</p>
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Flutter and Machine Learning with Python; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@arjunapanji21](https://www.instagram.com/arjunapanji21)
+I'm a passionate Full-Stack Developer from Indonesia 🇮🇩 with 3+ years of hands-on experience in web development and software engineering. I specialize in building scalable web applications and creating efficient solutions for complex problems.
+
+```javascript
+const arjuna = {
+    code: ["Javascript", "Python", "PHP", "Java", "C#"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React"],
+            css: ["Bootstrap", "Tailwind", "Material UI"]
+        },
+        backEnd: {
+            php: ["Laravel"],
+            js: ["Node", "Express"],
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        devOps: ["Docker", "Nginx", "AWS"]
+    },
+    currentFocus: "Full-Stack Web Development and Machine Learning",
+};
+```
+
+**🔭 Currently Working On:**
+- Building scalable web applications with Laravel and Vue.js
+- Exploring Machine Learning with Python
+- Contributing to open-source projects
+
+**💼 Professional Journey:**
+- Full-Stack Developer with expertise in LAMP/MERN stack
+- Freelance Developer [@ngejasain](https://ngejasain.vercel.app)
+- Open Source Contributor
 
 **Skills & Technologies:**  
 
@@ -32,19 +58,19 @@ Hi, I'm [Arjuna Panji Prakarsa](https://arjunapanji21.github.io), a Web Develope
 <a href="mailto:work.arjunapanji@gmail.com">
   <img align="left" alt="Arjuna Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://twitter.com/arjunapanji21">
+<a href="https://twitter.com/arjunaaprakarsa">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://web.facebook.com/arjunapanji21">
+<a href="https://web.facebook.com/arjunaaprakarsa">
   <img align="left" alt="r" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/arjunapanji21/">
+<a href="https://www.linkedin.com/in/arjunapanji/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/arjunaa21">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/arjunapanji21/">
+<a href="https://www.instagram.com/arjunaaprakarsa/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -71,4 +97,5 @@ Hi, I'm [Arjuna Panji Prakarsa](https://arjunapanji21.github.io), a Web Develope
   <a href="https://www.buymeacoffee.com/arjunapanji" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
   </a>
+  <a href="https://trakteer.id/devusioncode" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=24-01-2025" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 </p>
