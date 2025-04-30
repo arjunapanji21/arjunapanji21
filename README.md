@@ -119,7 +119,7 @@ const arjuna = {
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://trakteer.id/devusioncode" target="_blank">
+  <a href="https://trakteer.id/arjunaaprakarsa" target="_blank">
     <img src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png" height="50" style="border:0px;" alt="Trakteer Saya" />
   </a>
 </p>
