@@ -37,7 +37,7 @@ const arjuna = {
 ```
 
 **🔭 Currently Working On:**
-- Building scalable web applications with Laravel and Vue.js
+- Building scalable web applications with Laravel and React.js
 - Exploring Machine Learning with Python
 - Contributing to open-source projects
 
